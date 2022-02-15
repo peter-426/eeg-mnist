@@ -1,7 +1,9 @@
 
-## EEG data sets:  
+## EEG data sets
 
 http://www.mindbigdata.com/opendb/
+
+EEG recordings of someone imagining a digit, 0 to 9. Task: predict the digit someone is thinking about from their EEG data.
 
 <pre>
 MindWave "FP1" 
