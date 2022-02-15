@@ -1,5 +1,5 @@
 
-## Data sets:  
+## EEG data sets:  
 
 http://www.mindbigdata.com/opendb/
 
